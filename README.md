@@ -1,1 +1,1 @@
-it's my HW
+it's my HW about properties CSS
